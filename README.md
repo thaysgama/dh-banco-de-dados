@@ -25,3 +25,9 @@ Esse repositório contém a resposta de exercícios de banco de dados utilizando
 **5-checkpoint2**
 
 ​			Contém o script para criação de um ecommerce simples, com as principais funcionalidades
+
+
+
+## Postgres
+
+Plus -> pasta mentorama contém algumas queries utilizando o postgres
